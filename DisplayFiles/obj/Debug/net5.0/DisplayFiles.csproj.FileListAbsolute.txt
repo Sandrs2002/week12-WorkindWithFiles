@@ -1,0 +1,14 @@
+/Users/aleks/Projects/WorkingWithFiles/DisplayFiles/bin/Debug/net5.0/DisplayFiles.deps.json
+/Users/aleks/Projects/WorkingWithFiles/DisplayFiles/bin/Debug/net5.0/DisplayFiles.runtimeconfig.json
+/Users/aleks/Projects/WorkingWithFiles/DisplayFiles/bin/Debug/net5.0/DisplayFiles.runtimeconfig.dev.json
+/Users/aleks/Projects/WorkingWithFiles/DisplayFiles/bin/Debug/net5.0/DisplayFiles.dll
+/Users/aleks/Projects/WorkingWithFiles/DisplayFiles/bin/Debug/net5.0/ref/DisplayFiles.dll
+/Users/aleks/Projects/WorkingWithFiles/DisplayFiles/bin/Debug/net5.0/DisplayFiles.pdb
+/Users/aleks/Projects/WorkingWithFiles/DisplayFiles/obj/Debug/net5.0/DisplayFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/WorkingWithFiles/DisplayFiles/obj/Debug/net5.0/DisplayFiles.AssemblyInfoInputs.cache
+/Users/aleks/Projects/WorkingWithFiles/DisplayFiles/obj/Debug/net5.0/DisplayFiles.AssemblyInfo.cs
+/Users/aleks/Projects/WorkingWithFiles/DisplayFiles/obj/Debug/net5.0/DisplayFiles.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/WorkingWithFiles/DisplayFiles/obj/Debug/net5.0/DisplayFiles.dll
+/Users/aleks/Projects/WorkingWithFiles/DisplayFiles/obj/Debug/net5.0/ref/DisplayFiles.dll
+/Users/aleks/Projects/WorkingWithFiles/DisplayFiles/obj/Debug/net5.0/DisplayFiles.pdb
+/Users/aleks/Projects/WorkingWithFiles/DisplayFiles/obj/Debug/net5.0/DisplayFiles.genruntimeconfig.cache

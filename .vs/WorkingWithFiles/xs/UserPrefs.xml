@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{F4FEC0EB-8537-414D-AA01-E4E7CE9C7D0F}|Default">
+  <MonoDevelop.Ide.ItemProperties.DisplayFiles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CreateDirectory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.WorkingWithFiles2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingWithFiles2/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="94" Column="1" />
+      <File FileName="CreateDirectory/Program.cs" Line="29" Column="66" />
+      <File FileName="CreateFiles/Program.cs" Line="30" Column="60" />
+      <File FileName="MoveFiles/Program.cs" Line="10" Column="13" />
+      <File FileName="DeleteFiles/Program.cs" Line="10" Column="13" />
+      <File FileName="DisplayFiles/Program.cs" Line="10" Column="27" />
+      <File FileName="WorkingWithFiles2/Program.cs" Line="94" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorkingWithFiles" expanded="True">
+            <Node name="CreateDirectory" expanded="True" />
+            <Node name="CreateFiles" expanded="True" />
+            <Node name="DeleteFiles" expanded="True" />
+            <Node name="DisplayFiles" expanded="True" />
+            <Node name="MoveFiles" expanded="True" />
+            <Node name="WorkingWithFiles" expanded="True" />
+            <Node name="WorkingWithFiles2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WorkingWithFiles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MoveFiles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DeleteFiles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CreateFiles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

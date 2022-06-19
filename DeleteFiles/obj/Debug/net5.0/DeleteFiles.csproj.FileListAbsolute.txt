@@ -1,0 +1,15 @@
+/Users/aleks/Projects/WorkingWithFiles/DeleteFiles/bin/Debug/net5.0/DeleteFiles.deps.json
+/Users/aleks/Projects/WorkingWithFiles/DeleteFiles/bin/Debug/net5.0/DeleteFiles.runtimeconfig.json
+/Users/aleks/Projects/WorkingWithFiles/DeleteFiles/bin/Debug/net5.0/DeleteFiles.runtimeconfig.dev.json
+/Users/aleks/Projects/WorkingWithFiles/DeleteFiles/bin/Debug/net5.0/DeleteFiles.dll
+/Users/aleks/Projects/WorkingWithFiles/DeleteFiles/bin/Debug/net5.0/ref/DeleteFiles.dll
+/Users/aleks/Projects/WorkingWithFiles/DeleteFiles/bin/Debug/net5.0/DeleteFiles.pdb
+/Users/aleks/Projects/WorkingWithFiles/DeleteFiles/obj/Debug/net5.0/DeleteFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/WorkingWithFiles/DeleteFiles/obj/Debug/net5.0/DeleteFiles.AssemblyInfoInputs.cache
+/Users/aleks/Projects/WorkingWithFiles/DeleteFiles/obj/Debug/net5.0/DeleteFiles.AssemblyInfo.cs
+/Users/aleks/Projects/WorkingWithFiles/DeleteFiles/obj/Debug/net5.0/DeleteFiles.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/WorkingWithFiles/DeleteFiles/obj/Debug/net5.0/DeleteFiles.dll
+/Users/aleks/Projects/WorkingWithFiles/DeleteFiles/obj/Debug/net5.0/ref/DeleteFiles.dll
+/Users/aleks/Projects/WorkingWithFiles/DeleteFiles/obj/Debug/net5.0/DeleteFiles.pdb
+/Users/aleks/Projects/WorkingWithFiles/DeleteFiles/obj/Debug/net5.0/DeleteFiles.genruntimeconfig.cache
+/Users/aleks/Projects/WorkingWithFiles/DeleteFiles/obj/Debug/net5.0/DeleteFiles.csproj.AssemblyReference.cache

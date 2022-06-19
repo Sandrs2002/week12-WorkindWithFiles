@@ -1,0 +1,14 @@
+/Users/aleks/Projects/WorkingWithFiles/WorkingWithFiles2/bin/Debug/net5.0/WorkingWithFiles2.deps.json
+/Users/aleks/Projects/WorkingWithFiles/WorkingWithFiles2/bin/Debug/net5.0/WorkingWithFiles2.runtimeconfig.json
+/Users/aleks/Projects/WorkingWithFiles/WorkingWithFiles2/bin/Debug/net5.0/WorkingWithFiles2.runtimeconfig.dev.json
+/Users/aleks/Projects/WorkingWithFiles/WorkingWithFiles2/bin/Debug/net5.0/WorkingWithFiles2.dll
+/Users/aleks/Projects/WorkingWithFiles/WorkingWithFiles2/bin/Debug/net5.0/ref/WorkingWithFiles2.dll
+/Users/aleks/Projects/WorkingWithFiles/WorkingWithFiles2/bin/Debug/net5.0/WorkingWithFiles2.pdb
+/Users/aleks/Projects/WorkingWithFiles/WorkingWithFiles2/obj/Debug/net5.0/WorkingWithFiles2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/WorkingWithFiles/WorkingWithFiles2/obj/Debug/net5.0/WorkingWithFiles2.AssemblyInfoInputs.cache
+/Users/aleks/Projects/WorkingWithFiles/WorkingWithFiles2/obj/Debug/net5.0/WorkingWithFiles2.AssemblyInfo.cs
+/Users/aleks/Projects/WorkingWithFiles/WorkingWithFiles2/obj/Debug/net5.0/WorkingWithFiles2.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/WorkingWithFiles/WorkingWithFiles2/obj/Debug/net5.0/WorkingWithFiles2.dll
+/Users/aleks/Projects/WorkingWithFiles/WorkingWithFiles2/obj/Debug/net5.0/ref/WorkingWithFiles2.dll
+/Users/aleks/Projects/WorkingWithFiles/WorkingWithFiles2/obj/Debug/net5.0/WorkingWithFiles2.pdb
+/Users/aleks/Projects/WorkingWithFiles/WorkingWithFiles2/obj/Debug/net5.0/WorkingWithFiles2.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/aleks/Projects/WorkingWithFiles/CreateFiles/bin/Debug/net5.0/CreateFiles.deps.json
+/Users/aleks/Projects/WorkingWithFiles/CreateFiles/bin/Debug/net5.0/CreateFiles.runtimeconfig.json
+/Users/aleks/Projects/WorkingWithFiles/CreateFiles/bin/Debug/net5.0/CreateFiles.runtimeconfig.dev.json
+/Users/aleks/Projects/WorkingWithFiles/CreateFiles/bin/Debug/net5.0/CreateFiles.dll
+/Users/aleks/Projects/WorkingWithFiles/CreateFiles/bin/Debug/net5.0/ref/CreateFiles.dll
+/Users/aleks/Projects/WorkingWithFiles/CreateFiles/bin/Debug/net5.0/CreateFiles.pdb
+/Users/aleks/Projects/WorkingWithFiles/CreateFiles/obj/Debug/net5.0/CreateFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/WorkingWithFiles/CreateFiles/obj/Debug/net5.0/CreateFiles.AssemblyInfoInputs.cache
+/Users/aleks/Projects/WorkingWithFiles/CreateFiles/obj/Debug/net5.0/CreateFiles.AssemblyInfo.cs
+/Users/aleks/Projects/WorkingWithFiles/CreateFiles/obj/Debug/net5.0/CreateFiles.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/WorkingWithFiles/CreateFiles/obj/Debug/net5.0/CreateFiles.dll
+/Users/aleks/Projects/WorkingWithFiles/CreateFiles/obj/Debug/net5.0/ref/CreateFiles.dll
+/Users/aleks/Projects/WorkingWithFiles/CreateFiles/obj/Debug/net5.0/CreateFiles.pdb
+/Users/aleks/Projects/WorkingWithFiles/CreateFiles/obj/Debug/net5.0/CreateFiles.genruntimeconfig.cache

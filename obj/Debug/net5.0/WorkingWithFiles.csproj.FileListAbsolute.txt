@@ -1,0 +1,5 @@
+/Users/aleks/Projects/WorkingWithFiles/obj/Debug/net5.0/WorkingWithFiles.csproj.AssemblyReference.cache
+/Users/aleks/Projects/WorkingWithFiles/obj/Debug/net5.0/WorkingWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/WorkingWithFiles/obj/Debug/net5.0/WorkingWithFiles.AssemblyInfoInputs.cache
+/Users/aleks/Projects/WorkingWithFiles/obj/Debug/net5.0/WorkingWithFiles.AssemblyInfo.cs
+/Users/aleks/Projects/WorkingWithFiles/obj/Debug/net5.0/WorkingWithFiles.csproj.CoreCompileInputs.cache

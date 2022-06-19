@@ -1,0 +1,15 @@
+/Users/aleks/Projects/WorkingWithFiles/MoveFiles/bin/Debug/net5.0/MoveFiles.deps.json
+/Users/aleks/Projects/WorkingWithFiles/MoveFiles/bin/Debug/net5.0/MoveFiles.runtimeconfig.json
+/Users/aleks/Projects/WorkingWithFiles/MoveFiles/bin/Debug/net5.0/MoveFiles.runtimeconfig.dev.json
+/Users/aleks/Projects/WorkingWithFiles/MoveFiles/bin/Debug/net5.0/MoveFiles.dll
+/Users/aleks/Projects/WorkingWithFiles/MoveFiles/bin/Debug/net5.0/ref/MoveFiles.dll
+/Users/aleks/Projects/WorkingWithFiles/MoveFiles/bin/Debug/net5.0/MoveFiles.pdb
+/Users/aleks/Projects/WorkingWithFiles/MoveFiles/obj/Debug/net5.0/MoveFiles.csproj.AssemblyReference.cache
+/Users/aleks/Projects/WorkingWithFiles/MoveFiles/obj/Debug/net5.0/MoveFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/WorkingWithFiles/MoveFiles/obj/Debug/net5.0/MoveFiles.AssemblyInfoInputs.cache
+/Users/aleks/Projects/WorkingWithFiles/MoveFiles/obj/Debug/net5.0/MoveFiles.AssemblyInfo.cs
+/Users/aleks/Projects/WorkingWithFiles/MoveFiles/obj/Debug/net5.0/MoveFiles.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/WorkingWithFiles/MoveFiles/obj/Debug/net5.0/MoveFiles.dll
+/Users/aleks/Projects/WorkingWithFiles/MoveFiles/obj/Debug/net5.0/ref/MoveFiles.dll
+/Users/aleks/Projects/WorkingWithFiles/MoveFiles/obj/Debug/net5.0/MoveFiles.pdb
+/Users/aleks/Projects/WorkingWithFiles/MoveFiles/obj/Debug/net5.0/MoveFiles.genruntimeconfig.cache

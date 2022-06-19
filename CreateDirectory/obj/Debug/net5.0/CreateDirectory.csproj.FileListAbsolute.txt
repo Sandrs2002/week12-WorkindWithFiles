@@ -1,0 +1,14 @@
+/Users/aleks/Projects/WorkingWithFiles/CreateDirectory/bin/Debug/net5.0/CreateDirectory.deps.json
+/Users/aleks/Projects/WorkingWithFiles/CreateDirectory/bin/Debug/net5.0/CreateDirectory.runtimeconfig.json
+/Users/aleks/Projects/WorkingWithFiles/CreateDirectory/bin/Debug/net5.0/CreateDirectory.runtimeconfig.dev.json
+/Users/aleks/Projects/WorkingWithFiles/CreateDirectory/bin/Debug/net5.0/CreateDirectory.dll
+/Users/aleks/Projects/WorkingWithFiles/CreateDirectory/bin/Debug/net5.0/ref/CreateDirectory.dll
+/Users/aleks/Projects/WorkingWithFiles/CreateDirectory/bin/Debug/net5.0/CreateDirectory.pdb
+/Users/aleks/Projects/WorkingWithFiles/CreateDirectory/obj/Debug/net5.0/CreateDirectory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/WorkingWithFiles/CreateDirectory/obj/Debug/net5.0/CreateDirectory.AssemblyInfoInputs.cache
+/Users/aleks/Projects/WorkingWithFiles/CreateDirectory/obj/Debug/net5.0/CreateDirectory.AssemblyInfo.cs
+/Users/aleks/Projects/WorkingWithFiles/CreateDirectory/obj/Debug/net5.0/CreateDirectory.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/WorkingWithFiles/CreateDirectory/obj/Debug/net5.0/CreateDirectory.dll
+/Users/aleks/Projects/WorkingWithFiles/CreateDirectory/obj/Debug/net5.0/ref/CreateDirectory.dll
+/Users/aleks/Projects/WorkingWithFiles/CreateDirectory/obj/Debug/net5.0/CreateDirectory.pdb
+/Users/aleks/Projects/WorkingWithFiles/CreateDirectory/obj/Debug/net5.0/CreateDirectory.genruntimeconfig.cache
